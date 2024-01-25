@@ -10,6 +10,5 @@ The image above shows the results of the simulation which are what we expect. Th
 ![mux_terminal](https://github.com/johnB-A/EE-322/assets/156035355/1aab6bd5-d7c2-418b-922e-a86c09faed08)
 The second design implemented is a relative simple 4 to 1 mux, to spice things up I added a CE signal that only allows the mux to output anything besides zero when it's high. As shown above the command lines used are the same commands from the half-adder. 
 ![mux_simulation](https://github.com/johnB-A/EE-322/assets/156035355/4958dd63-176d-45cb-8f59-6935a0b944ad)
-Here it shows the results of the simulation. Everything is as expected. 
-
+Here it shows the results of the simulation. Everything is as expected.
 
