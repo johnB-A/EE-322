@@ -17,7 +17,8 @@ Required submissions:
 
   ---
   _Asked ChatGpt to generate a random code lol_
-`#include <stdio.h>
+```
+#include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
 
@@ -26,7 +27,8 @@ int main() {
     int randomNumber = rand() % 100 + 1;
     printf("Random number: %d\n", randomNumber);
     return 0;
-}`
+}
+```
 ![stevens](https://github.com/johnB-A/EE-322/assets/156035355/2695b94c-1f81-443e-ad7d-2747f728db5c)
 
 
